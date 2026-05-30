@@ -9,57 +9,90 @@
       "level": "cet4",
       "date": "2026-05-30",
       "sentences": [
-        {"en": "In the heart of every major city, a quiet revolution is taking place.", "zh": "在每个大城市的中心，一场静悄悄的革命正在发生。"},
-        {"en": "Urban planners and city governments around the world are increasingly recognizing the importance of green spaces.", "zh": "世界各地的城市规划者和市政府越来越认识到绿色空间的重要性。"},
-        {"en": "Parks, community gardens, and tree-lined streets are no longer seen as mere decorations.", "zh": "公园、社区花园和绿树成荫的街道不再被视为单纯的装饰。"},
-        {"en": "They are now understood to be essential components of public health infrastructure.", "zh": "它们现在被认为是公共卫生基础设施的重要组成部分。"},
-        {"en": "Research has consistently shown that access to green spaces reduces stress levels significantly.", "zh": "研究一致表明，接触绿色空间能显著降低压力水平。"},
-        {"en": "People who live near parks report feeling happier and more satisfied with their lives.", "zh": "住在公园附近的人表示感觉更快乐，对生活更满意。"},
-        {"en": "A major study conducted in 2024 followed over 50,000 city residents for a period of five years.", "zh": "2024年进行的一项大型研究对五万多名城市居民进行了为期五年的跟踪调查。"},
-        {"en": "The results showed that those with regular access to green spaces had lower rates of heart disease.", "zh": "结果显示，经常接触绿色空间的人心脏病发病率更低。"},
-        {"en": "They also demonstrated better mental health outcomes and stronger immune system function.", "zh": "他们还表现出更好的心理健康状况和更强的免疫系统功能。"},
-        {"en": "Children who grow up with access to nature tend to develop better cognitive skills.", "zh": "在接触自然环境中长大的孩子往往能发展出更好的认知能力。"},
-        {"en": "They are also less likely to suffer from attention deficit disorders, according to recent findings.", "zh": "根据最近的发现，他们也不太可能患有注意力缺陷障碍。"},
-        {"en": "Beyond individual health benefits, green spaces help combat the urban heat island effect.", "zh": "除了个人健康益处外，绿色空间还有助于对抗城市热岛效应。"},
-        {"en": "Trees and plants naturally cool the surrounding air through a process called evapotranspiration.", "zh": "树木和植物通过一种叫做蒸散的过程自然地冷却周围的空气。"},
-        {"en": "This cooling effect can reduce temperatures in a city by as much as two to three degrees Celsius.", "zh": "这种冷却效果可以将城市温度降低两到三摄氏度。"},
-        {"en": "In addition, green spaces help absorb rainwater and reduce the risk of urban flooding.", "zh": "此外，绿色空间有助于吸收雨水，减少城市洪水的风险。"},
-        {"en": "Many cities are now investing heavily in creating new parks and improving existing ones.", "zh": "许多城市现在投入大量资金创建新公园并改善现有公园。"},
-        {"en": "Singapore, for example, has become famous for its commitment to becoming a 'city in a garden'.", "zh": "例如，新加坡因致力于成为'花园中的城市'而闻名。"},
-        {"en": "The city state has integrated greenery into every aspect of its urban design over the past two decades.", "zh": "这个城市国家在过去二十年中将绿色植物融入了城市设计的各个方面。"},
-        {"en": "Even in dense urban areas where space is limited, creative solutions are emerging.", "zh": "即使在空间有限的高密度城市区域，创造性的解决方案也在不断涌现。"},
-        {"en": "Rooftop gardens and vertical green walls are becoming increasingly common sights in modern cities.", "zh": "屋顶花园和垂直绿化墙在现代城市中变得越来越常见。"},
-        {"en": "The movement toward greener cities represents a fundamental shift in how we think about urban living.", "zh": "向绿色城市发展代表着我们对城市生活方式的根本性转变。"}
-      ]
-    },
-    {
-      "id": "cet4-2",
-      "title": "How Reading Fiction Changes Your Brain",
-      "source": "VOA Learning English",
-      "sourceUrl": "https://learningenglish.voanews.com/",
-      "level": "cet4",
-      "date": "2026-05-29",
-      "sentences": [
-        {"en": "In an age dominated by short videos and social media scrolling, reading books might seem like a lost art.", "zh": "在这个短视频和社交媒体刷屏主导的时代，读书似乎成了一门失落的艺术。"},
-        {"en": "However, scientists are discovering that the simple act of reading fiction has profound effects on the human brain.", "zh": "然而，科学家们发现，阅读小说这个简单的行为对人类大脑有着深远的影响。"},
-        {"en": "Brain scans have revealed that reading narrative stories activates multiple regions of the brain simultaneously.", "zh": "脑部扫描显示，阅读叙事故事能同时激活大脑的多个区域。"},
-        {"en": "Unlike watching television, which is a passive activity, reading requires the brain to actively construct meaning.", "zh": "与看电视这种被动活动不同，阅读需要大脑主动构建意义。"},
-        {"en": "When you read about a character running through a forest, your brain responds as if you were actually running.", "zh": "当你读到一个人物在森林中奔跑时，你的大脑会做出反应，就好像你真的在跑步一样。"},
-        {"en": "This phenomenon, known as embodied cognition, suggests that reading is a deeply immersive experience.", "zh": "这种现象被称为具身认知，表明阅读是一种深度沉浸式的体验。"},
-        {"en": "Researchers at Emory University conducted a fascinating study on the effects of reading a novel.", "zh": "埃默里大学的研究人员进行了一项关于阅读小说效果的引人入胜的研究。"},
-        {"en": "They asked participants to read a thriller novel over the course of nineteen days.", "zh": "他们要求参与者用十九天的时间读完一本惊悚小说。"},
-        {"en": "Brain scans were taken each morning to measure any changes in neural connectivity.", "zh": "每天早上进行脑部扫描，以测量神经连接的任何变化。"},
-        {"en": "The results were remarkable even the researchers themselves were surprised by what they found.", "zh": "结果非常显著，就连研究人员自己也对他们的发现感到惊讶。"},
-        {"en": "Participants showed increased connectivity in the left temporal cortex, an area linked to language processing.", "zh": "参与者左侧颞叶皮层的连接性增强，这是一个与语言处理相关的区域。"},
-        {"en": "More surprisingly, there was heightened activity in the central sulcus, which is associated with physical sensation.", "zh": "更令人惊讶的是，中央沟的活动增加了，这与身体感觉有关。"},
-        {"en": "These changes persisted for several days after the participants had finished reading the book.", "zh": "这些变化在参与者读完书后持续了数天。"},
-        {"en": "This suggests that the benefits of reading extend well beyond the actual time spent with a book.", "zh": "这表明阅读的好处远远超出了实际花在书本上的时间。"},
-        {"en": "Reading fiction also appears to improve a person's ability to understand what others are thinking and feeling.", "zh": "阅读小说似乎还能提高一个人理解他人想法和感受的能力。"},
-        {"en": "Psychologists call this skill 'theory of mind', and it is essential for healthy social relationships.", "zh": "心理学家称这种技能为'心理理论'，它对健康的社会关系至关重要。"},
-        {"en": "In one study, people who regularly read literary fiction scored higher on tests measuring empathy and social perception.", "zh": "在一项研究中，经常阅读文学小说的人在测量同理心和社会感知的测试中得分更高。"},
-        {"en": "The researchers believe this is because fiction allows readers to practice understanding complex characters and situations.", "zh": "研究人员认为，这是因为小说让读者得以练习理解复杂的人物和情境。"},
-        {"en": "Perhaps most importantly, reading has been shown to reduce stress by up to sixty-eight percent.", "zh": "也许最重要的是，阅读已被证明可以减少多达百分之六十八的压力。"},
-        {"en": "Just six minutes of reading can slow your heart rate and ease tension in your muscles.", "zh": "仅仅六分钟的阅读就能减缓你的心率，缓解肌肉的紧张。"}
+        {
+          "en": "In the heart of every major city, a quiet revolution is taking place.",
+          "zh": "在每个大城市的中心，一场静悄悄的革命正在发生。"
+        },
+        {
+          "en": "Urban planners and city governments around the world are increasingly recognizing the importance of green spaces.",
+          "zh": "世界各地的城市规划者和市政府越来越认识到绿色空间的重要性。"
+        },
+        {
+          "en": "Parks, community gardens, and tree-lined streets are no longer seen as mere decorations.",
+          "zh": "公园、社区花园和绿树成荫的街道不再被视为单纯的装饰。"
+        },
+        {
+          "en": "They are now understood to be essential components of public health infrastructure.",
+          "zh": "它们现在被认为是公共卫生基础设施的重要组成部分。"
+        },
+        {
+          "en": "Research has consistently shown that access to green spaces reduces stress levels significantly.",
+          "zh": "研究一致表明，接触绿色空间能显著降低压力水平。"
+        },
+        {
+          "en": "People who live near parks report feeling happier and more satisfied with their lives.",
+          "zh": "住在公园附近的人表示感觉更快乐，对生活更满意。"
+        },
+        {
+          "en": "A major study conducted in 2024 followed over 50,000 city residents for a period of five years.",
+          "zh": "2024年进行的一项大型研究对五万多名城市居民进行了为期五年的跟踪调查。"
+        },
+        {
+          "en": "The results showed that those with regular access to green spaces had lower rates of heart disease.",
+          "zh": "结果显示，经常接触绿色空间的人心脏病发病率更低。"
+        },
+        {
+          "en": "They also demonstrated better mental health outcomes and stronger immune system function.",
+          "zh": "他们还表现出更好的心理健康状况和更强的免疫系统功能。"
+        },
+        {
+          "en": "Children who grow up with access to nature tend to develop better cognitive skills.",
+          "zh": "在接触自然环境中长大的孩子往往能发展出更好的认知能力。"
+        },
+        {
+          "en": "They are also less likely to suffer from attention deficit disorders, according to recent findings.",
+          "zh": "根据最近的发现，他们也不太可能患有注意力缺陷障碍。"
+        },
+        {
+          "en": "Beyond individual health benefits, green spaces help combat the urban heat island effect.",
+          "zh": "除了个人健康益处外，绿色空间还有助于对抗城市热岛效应。"
+        },
+        {
+          "en": "Trees and plants naturally cool the surrounding air through a process called evapotranspiration.",
+          "zh": "树木和植物通过一种叫做蒸散的过程自然地冷却周围的空气。"
+        },
+        {
+          "en": "This cooling effect can reduce temperatures in a city by as much as two to three degrees Celsius.",
+          "zh": "这种冷却效果可以将城市温度降低两到三摄氏度。"
+        },
+        {
+          "en": "In addition, green spaces help absorb rainwater and reduce the risk of urban flooding.",
+          "zh": "此外，绿色空间有助于吸收雨水，减少城市洪水的风险。"
+        },
+        {
+          "en": "Many cities are now investing heavily in creating new parks and improving existing ones.",
+          "zh": "许多城市现在投入大量资金创建新公园并改善现有公园。"
+        },
+        {
+          "en": "Singapore, for example, has become famous for its commitment to becoming a 'city in a garden'.",
+          "zh": "例如，新加坡因致力于成为'花园中的城市'而闻名。"
+        },
+        {
+          "en": "The city state has integrated greenery into every aspect of its urban design over the past two decades.",
+          "zh": "这个城市国家在过去二十年中将绿色植物融入了城市设计的各个方面。"
+        },
+        {
+          "en": "Even in dense urban areas where space is limited, creative solutions are emerging.",
+          "zh": "即使在空间有限的高密度城市区域，创造性的解决方案也在不断涌现。"
+        },
+        {
+          "en": "Rooftop gardens and vertical green walls are becoming increasingly common sights in modern cities.",
+          "zh": "屋顶花园和垂直绿化墙在现代城市中变得越来越常见。"
+        },
+        {
+          "en": "The movement toward greener cities represents a fundamental shift in how we think about urban living.",
+          "zh": "向绿色城市发展代表着我们对城市生活方式的根本性转变。"
+        }
       ]
     },
     {
@@ -70,29 +103,210 @@
       "level": "cet6",
       "date": "2026-05-30",
       "sentences": [
-        {"en": "Despite the remarkable advances in digital technology over the past two decades, a stark reality persists across the globe.", "zh": "尽管过去二十年数字技术取得了显著进步，但一个严峻的现实仍在全球范围内存在。"},
-        {"en": "Nearly three billion people, or roughly thirty-seven percent of the world's population, have never used the internet.", "zh": "近三十亿人，约占世界人口的百分之三十七，从未使用过互联网。"},
-        {"en": "This digital divide is not merely a matter of technological infrastructure, though that remains a significant barrier.", "zh": "这种数字鸿沟不仅仅是技术基础设施的问题，尽管这仍然是一个重大障碍。"},
-        {"en": "The gap reflects deeper socioeconomic inequalities that have been exacerbated by the rapid pace of digital transformation.", "zh": "这一差距反映了更深层次的社会经济不平等，而数字化转型的快速步伐加剧了这种不平等。"},
-        {"en": "In rural areas of developing countries, the cost of internet access can exceed a household's monthly food budget.", "zh": "在发展中国家的农村地区，互联网接入费用可能超过一个家庭每月的食物预算。"},
-        {"en": "The affordability barrier disproportionately affects women, who already face greater economic disadvantages in many societies.", "zh": "可负担性障碍对女性的影响尤为严重，她们在许多社会中已经面临更大的经济劣势。"},
-        {"en": "A comprehensive report by the World Bank highlighted the multifaceted nature of this global challenge.", "zh": "世界银行的一份综合报告强调了这一全球挑战的多面性。"},
-        {"en": "The report identified three primary dimensions of the digital divide: access, affordability, and digital literacy.", "zh": "该报告确定了数字鸿沟的三个主要维度：接入、可负担性和数字素养。"},
-        {"en": "Digital literacy refers to the skills and knowledge required to use digital devices and online services effectively.", "zh": "数字素养指的是有效使用数字设备和在线服务所需的技能和知识。"},
-        {"en": "Even when internet access becomes available and affordable, a lack of digital skills can prevent meaningful use.", "zh": "即使互联网接入变得可用且可负担，数字技能的缺乏也可能阻碍有意义的运用。"},
-        {"en": "Older adults are particularly vulnerable to digital exclusion, as many feel overwhelmed by the pace of technological change.", "zh": "老年人特别容易受到数字排斥，因为许多人感到技术变革的速度令他们无所适从。"},
-        {"en": "The COVID-19 pandemic served as a powerful illustration of why closing the digital divide matters urgently.", "zh": "新冠疫情有力地说明了为什么弥合数字鸿沟迫在眉睫。"},
-        {"en": "During lockdowns, access to education, healthcare, and even basic social connection depended almost entirely on internet connectivity.", "zh": "在封锁期间，教育、医疗甚至基本的社交联系几乎完全依赖于互联网连接。"},
-        {"en": "Millions of children in low-income communities were unable to attend online classes simply because their families lacked internet access.", "zh": "低收入社区的数百万儿童无法参加在线课程，仅仅因为他们的家庭没有互联网接入。"},
-        {"en": "International organizations have launched ambitious initiatives aimed at achieving universal internet access by 2030.", "zh": "国际组织已经启动了旨在到2030年实现普遍互联网接入的雄心勃勃的倡议。"},
-        {"en": "However, critics argue that these targets are unrealistic given the current pace of investment and policy implementation.", "zh": "然而，批评者认为，考虑到目前投资和政策实施的速度，这些目标是不现实的。"},
-        {"en": "Innovative solutions are emerging, including low-earth orbit satellites that can beam internet to remote areas without ground infrastructure.", "zh": "创新解决方案正在涌现，包括可以向没有地面基础设施的偏远地区发射互联网信号的低轨道卫星。"},
-        {"en": "Companies like SpaceX with its Starlink project have demonstrated the technical feasibility of satellite-based internet services.", "zh": "像SpaceX及其Starlink项目这样的公司已经证明了卫星互联网服务的技术可行性。"},
-        {"en": "Nevertheless, satellite internet remains too expensive for most of the people who need it most.", "zh": "尽管如此，卫星互联网对大多数最需要它的人来说仍然过于昂贵。"},
-        {"en": "Meanwhile, community networks, where local groups build and manage their own internet infrastructure, are gaining traction.", "zh": "与此同时，由当地团体建设和管理自己互联网基础设施的社区网络正在获得关注。"},
-        {"en": "These grassroots approaches have proven successful in parts of India, Mexico, and several African nations.", "zh": "这些草根方法已在印度、墨西哥和几个非洲国家的部分地区证明了其成功。"},
-        {"en": "Ultimately, closing the digital divide requires a coordinated effort involving governments, private companies, and civil society.", "zh": "最终，弥合数字鸿沟需要政府、私营公司和民间社会的协调努力。"},
-        {"en": "The goal is not simply to connect everyone to the internet, but to ensure that connectivity translates into meaningful opportunities.", "zh": "目标不仅仅是让每个人都能上网，而是要确保连接性转化为有意义的机会。"}
+        {
+          "en": "Despite the remarkable advances in digital technology over the past two decades, a stark reality persists across the globe.",
+          "zh": "尽管过去二十年数字技术取得了显著进步，但一个严峻的现实仍在全球范围内存在。"
+        },
+        {
+          "en": "Nearly three billion people, or roughly thirty-seven percent of the world's population, have never used the internet.",
+          "zh": "近三十亿人，约占世界人口的百分之三十七，从未使用过互联网。"
+        },
+        {
+          "en": "This digital divide is not merely a matter of technological infrastructure, though that remains a significant barrier.",
+          "zh": "这种数字鸿沟不仅仅是技术基础设施的问题，尽管这仍然是一个重大障碍。"
+        },
+        {
+          "en": "The gap reflects deeper socioeconomic inequalities that have been exacerbated by the rapid pace of digital transformation.",
+          "zh": "这一差距反映了更深层次的社会经济不平等，而数字化转型的快速步伐加剧了这种不平等。"
+        },
+        {
+          "en": "In rural areas of developing countries, the cost of internet access can exceed a household's monthly food budget.",
+          "zh": "在发展中国家的农村地区，互联网接入费用可能超过一个家庭每月的食物预算。"
+        },
+        {
+          "en": "The affordability barrier disproportionately affects women, who already face greater economic disadvantages in many societies.",
+          "zh": "可负担性障碍对女性的影响尤为严重，她们在许多社会中已经面临更大的经济劣势。"
+        },
+        {
+          "en": "A comprehensive report by the World Bank highlighted the multifaceted nature of this global challenge.",
+          "zh": "世界银行的一份综合报告强调了这一全球挑战的多面性。"
+        },
+        {
+          "en": "The report identified three primary dimensions of the digital divide: access, affordability, and digital literacy.",
+          "zh": "该报告确定了数字鸿沟的三个主要维度：接入、可负担性和数字素养。"
+        },
+        {
+          "en": "Digital literacy refers to the skills and knowledge required to use digital devices and online services effectively.",
+          "zh": "数字素养指的是有效使用数字设备和在线服务所需的技能和知识。"
+        },
+        {
+          "en": "Even when internet access becomes available and affordable, a lack of digital skills can prevent meaningful use.",
+          "zh": "即使互联网接入变得可用且可负担，数字技能的缺乏也可能阻碍有意义的运用。"
+        },
+        {
+          "en": "Older adults are particularly vulnerable to digital exclusion, as many feel overwhelmed by the pace of technological change.",
+          "zh": "老年人特别容易受到数字排斥，因为许多人感到技术变革的速度令他们无所适从。"
+        },
+        {
+          "en": "The COVID-19 pandemic served as a powerful illustration of why closing the digital divide matters urgently.",
+          "zh": "新冠疫情有力地说明了为什么弥合数字鸿沟迫在眉睫。"
+        },
+        {
+          "en": "During lockdowns, access to education, healthcare, and even basic social connection depended almost entirely on internet connectivity.",
+          "zh": "在封锁期间，教育、医疗甚至基本的社交联系几乎完全依赖于互联网连接。"
+        },
+        {
+          "en": "Millions of children in low-income communities were unable to attend online classes simply because their families lacked internet access.",
+          "zh": "低收入社区的数百万儿童无法参加在线课程，仅仅因为他们的家庭没有互联网接入。"
+        },
+        {
+          "en": "International organizations have launched ambitious initiatives aimed at achieving universal internet access by 2030.",
+          "zh": "国际组织已经启动了旨在到2030年实现普遍互联网接入的雄心勃勃的倡议。"
+        },
+        {
+          "en": "However, critics argue that these targets are unrealistic given the current pace of investment and policy implementation.",
+          "zh": "然而，批评者认为，考虑到目前投资和政策实施的速度，这些目标是不现实的。"
+        },
+        {
+          "en": "Innovative solutions are emerging, including low-earth orbit satellites that can beam internet to remote areas without ground infrastructure.",
+          "zh": "创新解决方案正在涌现，包括可以向没有地面基础设施的偏远地区发射互联网信号的低轨道卫星。"
+        },
+        {
+          "en": "Companies like SpaceX with its Starlink project have demonstrated the technical feasibility of satellite-based internet services.",
+          "zh": "像SpaceX及其Starlink项目这样的公司已经证明了卫星互联网服务的技术可行性。"
+        },
+        {
+          "en": "Nevertheless, satellite internet remains too expensive for most of the people who need it most.",
+          "zh": "尽管如此，卫星互联网对大多数最需要它的人来说仍然过于昂贵。"
+        },
+        {
+          "en": "Meanwhile, community networks, where local groups build and manage their own internet infrastructure, are gaining traction.",
+          "zh": "与此同时，由当地团体建设和管理自己互联网基础设施的社区网络正在获得关注。"
+        },
+        {
+          "en": "These grassroots approaches have proven successful in parts of India, Mexico, and several African nations.",
+          "zh": "这些草根方法已在印度、墨西哥和几个非洲国家的部分地区证明了其成功。"
+        },
+        {
+          "en": "Ultimately, closing the digital divide requires a coordinated effort involving governments, private companies, and civil society.",
+          "zh": "最终，弥合数字鸿沟需要政府、私营公司和民间社会的协调努力。"
+        },
+        {
+          "en": "The goal is not simply to connect everyone to the internet, but to ensure that connectivity translates into meaningful opportunities.",
+          "zh": "目标不仅仅是让每个人都能上网，而是要确保连接性转化为有意义的机会。"
+        }
+      ]
+    },
+    {
+      "id": "the-guardian-world-who-puts-ebola-outbreak-death-rate-at-hug-mpsctf20",
+      "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+      "level": "ielts",
+      "date": "2026-05-29",
+      "sentences": [
+        {
+          "en": "<p>Tedros Adhanom Ghebreyesus calls for ceasefire among armed groups to help avoid deaths from preventable disease</p><p>The death rate of the Ebola outbreak in the Democratic Republic of the Congo is between 30% and 50%, the World Health Organization has said, as its head arrived in the country to support efforts to contain the disease.</p><p>Anaïs Legand, from the WHO’s high threat pathogens team, said the revised death rate estimate is based on confirmed cases.",
+          "zh": "<p>Tedros Adhanom Ghebreyesus呼吁武装团体之间停火，以帮助避免可预防疾病造成的死亡</p><p>世界卫生组织表示，刚果民主共和国埃博拉疫情的死亡率在30 ％至50 ％之间，因为其负责人抵达该国以支持遏制该疾病的努力。</p><p>世卫组织高威胁病原体小组的Anaïs Legand表示，修订后的死亡率估计数是基于确诊病例。"
+        },
+        {
+          "en": "“It’s huge.",
+          "zh": "是的，非常强大。"
+        },
+        {
+          "en": "It means that up to five out of 10 people are likely to die,” Legand told reporters in Geneva.</p> <a href=\"https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic\">Continue reading...</a>",
+          "zh": "这意味着多达十分之五的人可能死亡， ”Legand在日内瓦告诉记者。</p> <a href=\"https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic\">继续阅读……</a>"
+        }
+      ]
+    },
+    {
+      "id": "cet4-2",
+      "title": "How Reading Fiction Changes Your Brain",
+      "source": "VOA Learning English",
+      "sourceUrl": "https://learningenglish.voanews.com/",
+      "level": "cet4",
+      "date": "2026-05-29",
+      "sentences": [
+        {
+          "en": "In an age dominated by short videos and social media scrolling, reading books might seem like a lost art.",
+          "zh": "在这个短视频和社交媒体刷屏主导的时代，读书似乎成了一门失落的艺术。"
+        },
+        {
+          "en": "However, scientists are discovering that the simple act of reading fiction has profound effects on the human brain.",
+          "zh": "然而，科学家们发现，阅读小说这个简单的行为对人类大脑有着深远的影响。"
+        },
+        {
+          "en": "Brain scans have revealed that reading narrative stories activates multiple regions of the brain simultaneously.",
+          "zh": "脑部扫描显示，阅读叙事故事能同时激活大脑的多个区域。"
+        },
+        {
+          "en": "Unlike watching television, which is a passive activity, reading requires the brain to actively construct meaning.",
+          "zh": "与看电视这种被动活动不同，阅读需要大脑主动构建意义。"
+        },
+        {
+          "en": "When you read about a character running through a forest, your brain responds as if you were actually running.",
+          "zh": "当你读到一个人物在森林中奔跑时，你的大脑会做出反应，就好像你真的在跑步一样。"
+        },
+        {
+          "en": "This phenomenon, known as embodied cognition, suggests that reading is a deeply immersive experience.",
+          "zh": "这种现象被称为具身认知，表明阅读是一种深度沉浸式的体验。"
+        },
+        {
+          "en": "Researchers at Emory University conducted a fascinating study on the effects of reading a novel.",
+          "zh": "埃默里大学的研究人员进行了一项关于阅读小说效果的引人入胜的研究。"
+        },
+        {
+          "en": "They asked participants to read a thriller novel over the course of nineteen days.",
+          "zh": "他们要求参与者用十九天的时间读完一本惊悚小说。"
+        },
+        {
+          "en": "Brain scans were taken each morning to measure any changes in neural connectivity.",
+          "zh": "每天早上进行脑部扫描，以测量神经连接的任何变化。"
+        },
+        {
+          "en": "The results were remarkable even the researchers themselves were surprised by what they found.",
+          "zh": "结果非常显著，就连研究人员自己也对他们的发现感到惊讶。"
+        },
+        {
+          "en": "Participants showed increased connectivity in the left temporal cortex, an area linked to language processing.",
+          "zh": "参与者左侧颞叶皮层的连接性增强，这是一个与语言处理相关的区域。"
+        },
+        {
+          "en": "More surprisingly, there was heightened activity in the central sulcus, which is associated with physical sensation.",
+          "zh": "更令人惊讶的是，中央沟的活动增加了，这与身体感觉有关。"
+        },
+        {
+          "en": "These changes persisted for several days after the participants had finished reading the book.",
+          "zh": "这些变化在参与者读完书后持续了数天。"
+        },
+        {
+          "en": "This suggests that the benefits of reading extend well beyond the actual time spent with a book.",
+          "zh": "这表明阅读的好处远远超出了实际花在书本上的时间。"
+        },
+        {
+          "en": "Reading fiction also appears to improve a person's ability to understand what others are thinking and feeling.",
+          "zh": "阅读小说似乎还能提高一个人理解他人想法和感受的能力。"
+        },
+        {
+          "en": "Psychologists call this skill 'theory of mind', and it is essential for healthy social relationships.",
+          "zh": "心理学家称这种技能为'心理理论'，它对健康的社会关系至关重要。"
+        },
+        {
+          "en": "In one study, people who regularly read literary fiction scored higher on tests measuring empathy and social perception.",
+          "zh": "在一项研究中，经常阅读文学小说的人在测量同理心和社会感知的测试中得分更高。"
+        },
+        {
+          "en": "The researchers believe this is because fiction allows readers to practice understanding complex characters and situations.",
+          "zh": "研究人员认为，这是因为小说让读者得以练习理解复杂的人物和情境。"
+        },
+        {
+          "en": "Perhaps most importantly, reading has been shown to reduce stress by up to sixty-eight percent.",
+          "zh": "也许最重要的是，阅读已被证明可以减少多达百分之六十八的压力。"
+        },
+        {
+          "en": "Just six minutes of reading can slow your heart rate and ease tension in your muscles.",
+          "zh": "仅仅六分钟的阅读就能减缓你的心率，缓解肌肉的紧张。"
+        }
       ]
     },
     {
@@ -103,33 +317,114 @@
       "level": "ielts",
       "date": "2026-05-28",
       "sentences": [
-        {"en": "More than eighty percent of the world's ocean floor remains unexplored and unmapped, representing one of the last great frontiers of scientific discovery on our planet.", "zh": "世界超过百分之八十的海底仍然未被探索和绘制，这代表了地球上科学发现的最后几大前沿领域之一。"},
-        {"en": "The deep ocean, defined as waters below two hundred meters where sunlight can no longer penetrate, constitutes the largest habitat on Earth by volume.", "zh": "深海，定义为二百米以下阳光无法穿透的水域，按体积计算是地球上最大的栖息地。"},
-        {"en": "Despite its vastness, we know remarkably little about the life forms that inhabit these extreme environments.", "zh": "尽管其广阔无垠，我们对栖息在这些极端环境中的生命形式却知之甚少。"},
-        {"en": "Recent technological advances in remotely operated vehicles and autonomous underwater drones have begun to change this situation dramatically.", "zh": "最近在遥控潜水器和自主水下无人机方面的技术进步已经开始显著改变这种状况。"},
-        {"en": "In 2024, an international team of marine biologists embarked on a groundbreaking expedition to the Clarion-Clipperton Zone in the Pacific Ocean.", "zh": "2024年，一个国际海洋生物学家团队开始了一次开创性的考察，前往太平洋的克拉里昂-克利珀顿区。"},
-        {"en": "This region, spanning approximately six million square kilometers between Hawaii and Mexico, contains some of the deepest and most pristine ecosystems on Earth.", "zh": "这个区域横跨夏威夷和墨西哥之间约六百万平方公里，包含一些地球上最深、最原始的生态系统。"},
-        {"en": "The expedition deployed state-of-the-art submersibles capable of descending to depths exceeding five thousand meters.", "zh": "该考察队部署了能够下潜至超过五千米深度的最先进潜水器。"},
-        {"en": "What the team discovered fundamentally challenged many longstanding assumptions about the requirements for complex life to thrive.", "zh": "团队的发现从根本上挑战了许多关于复杂生命繁衍所需条件的长期假设。"},
-        {"en": "In the complete darkness of the abyssal plains, where crushing pressures exceed five hundred times that at sea level, life flourishes in unexpected abundance.", "zh": "在深海的完全黑暗中，那里的巨大压力超过海平面的五百倍，生命以意想不到的丰度蓬勃发展。"},
-        {"en": "The researchers documented over thirty previously unknown species, including bioluminescent jellyfish and giant single-celled organisms known as xenophyophores.", "zh": "研究人员记录了三十多种以前未知的物种，包括生物发光水母和被称为异生藻的巨大单细胞生物。"},
-        {"en": "Particularly intriguing was the discovery of thriving communities clustered around hydrothermal vents, where superheated mineral-rich water spews from the ocean floor.", "zh": "特别引人入胜的是围绕着热液喷口的繁荣群落，那里超高温的富含矿物质的水从海底喷涌而出。"},
-        {"en": "These ecosystems operate on a fundamentally different basis from almost every other known ecosystem on the planet.", "zh": "这些生态系统的运行基础与地球上几乎所有其他已知生态系统有着根本的不同。"},
-        {"en": "Unlike surface ecosystems that depend on sunlight and photosynthesis, vent communities derive their energy from chemical reactions involving sulfur compounds.", "zh": "与依赖阳光和光合作用的地表生态系统不同，热液喷口群落从涉及硫化合物的化学反应中获取能量。"},
-        {"en": "This process, known as chemosynthesis, supports complex food webs that include tube worms reaching lengths of over two meters.", "zh": "这个过程被称为化学合成，支持着包括长达两米以上的管虫在内的复杂食物网。"},
-        {"en": "The implications of these findings extend far beyond marine biology into fields as diverse as astrobiology and pharmaceutical research.", "zh": "这些发现的意义远超海洋生物学，延伸到天体生物学和药物研究等多样领域。"},
-        {"en": "If life can thrive in such extreme conditions on Earth, scientists reason, similar processes might sustain life on other worlds.", "zh": "科学家们推论，如果生命能在地球上如此极端的条件下繁衍，类似的过程可能也在其他世界上维持着生命。"},
-        {"en": "Jupiter's moon Europa and Saturn's moon Enceladus, both believed to harbor subsurface oceans, are now considered even more promising candidates for extraterrestrial life.", "zh": "木星的卫星欧罗巴和土星的卫星恩克拉多斯都被认为拥有地下海洋，现在被视为地外生命更有希望的候选。"},
-        {"en": "Furthermore, the unique biochemical compounds produced by deep-sea organisms are attracting intense interest from the pharmaceutical industry.", "zh": "此外，深海生物产生的独特生化化合物正引起制药行业的强烈兴趣。"},
-        {"en": "Several compounds isolated from deep-sea sponges and bacteria have shown promising anti-cancer and antibiotic properties in laboratory tests.", "zh": "从深海海绵和细菌中分离出的几种化合物在实验室测试中显示出有希望的抗癌和抗生素特性。"},
-        {"en": "However, even as scientists race to explore these remote ecosystems, they face a troubling paradox.", "zh": "然而，就在科学家们竞相探索这些偏远生态系统的同时，他们面临着一个令人不安的矛盾。"},
-        {"en": "The same technological advances enabling deep-sea exploration are also facilitating deep-sea mining, which threatens to destroy these habitats before they can be studied.", "zh": "同样的技术进步在使深海探索成为可能的同时，也在促进深海采矿，这可能在这些栖息地被研究之前就将其摧毁。"},
-        {"en": "The Clarion-Clipperton Zone alone contains an estimated twenty-one billion tons of polymetallic nodules rich in manganese, nickel, and cobalt.", "zh": "仅克拉里昂-克利珀顿区就估计含有二百一十亿吨富含锰、镍和钴的多金属结核。"},
-        {"en": "These minerals are increasingly sought after for the production of electric vehicle batteries and renewable energy infrastructure.", "zh": "这些矿物越来越多地被用于生产电动汽车电池和可再生能源基础设施。"},
-        {"en": "Marine conservationists argue forcefully that we must establish comprehensive protected areas before allowing any extraction activities to proceed.", "zh": "海洋保护主义者强烈主张，我们必须在允许任何开采活动进行之前建立全面的保护区。"},
-        {"en": "The United Nations is currently negotiating an international treaty to regulate mining activities in international waters beyond any single nation's jurisdiction.", "zh": "联合国目前正在谈判一项国际条约，以规范超出任何单一国家管辖范围的国际水域的采矿活动。"},
-        {"en": "Scientists emphasize that preserving deep-sea biodiversity is not merely an ethical imperative but may hold the key to future medical and technological breakthroughs.", "zh": "科学家们强调，保护深海生物多样性不仅是一种道德要求，而且可能掌握着未来医疗和技术突破的关键。"},
-        {"en": "As one expedition leader remarked, we are only beginning to understand what we stand to lose before we even know what exists.", "zh": "正如一位考察队长所说，我们才刚开始意识到，在我们甚至不知道什么存在之前，我们可能会失去什么。"}
+        {
+          "en": "More than eighty percent of the world's ocean floor remains unexplored and unmapped, representing one of the last great frontiers of scientific discovery on our planet.",
+          "zh": "世界超过百分之八十的海底仍然未被探索和绘制，这代表了地球上科学发现的最后几大前沿领域之一。"
+        },
+        {
+          "en": "The deep ocean, defined as waters below two hundred meters where sunlight can no longer penetrate, constitutes the largest habitat on Earth by volume.",
+          "zh": "深海，定义为二百米以下阳光无法穿透的水域，按体积计算是地球上最大的栖息地。"
+        },
+        {
+          "en": "Despite its vastness, we know remarkably little about the life forms that inhabit these extreme environments.",
+          "zh": "尽管其广阔无垠，我们对栖息在这些极端环境中的生命形式却知之甚少。"
+        },
+        {
+          "en": "Recent technological advances in remotely operated vehicles and autonomous underwater drones have begun to change this situation dramatically.",
+          "zh": "最近在遥控潜水器和自主水下无人机方面的技术进步已经开始显著改变这种状况。"
+        },
+        {
+          "en": "In 2024, an international team of marine biologists embarked on a groundbreaking expedition to the Clarion-Clipperton Zone in the Pacific Ocean.",
+          "zh": "2024年，一个国际海洋生物学家团队开始了一次开创性的考察，前往太平洋的克拉里昂-克利珀顿区。"
+        },
+        {
+          "en": "This region, spanning approximately six million square kilometers between Hawaii and Mexico, contains some of the deepest and most pristine ecosystems on Earth.",
+          "zh": "这个区域横跨夏威夷和墨西哥之间约六百万平方公里，包含一些地球上最深、最原始的生态系统。"
+        },
+        {
+          "en": "The expedition deployed state-of-the-art submersibles capable of descending to depths exceeding five thousand meters.",
+          "zh": "该考察队部署了能够下潜至超过五千米深度的最先进潜水器。"
+        },
+        {
+          "en": "What the team discovered fundamentally challenged many longstanding assumptions about the requirements for complex life to thrive.",
+          "zh": "团队的发现从根本上挑战了许多关于复杂生命繁衍所需条件的长期假设。"
+        },
+        {
+          "en": "In the complete darkness of the abyssal plains, where crushing pressures exceed five hundred times that at sea level, life flourishes in unexpected abundance.",
+          "zh": "在深海的完全黑暗中，那里的巨大压力超过海平面的五百倍，生命以意想不到的丰度蓬勃发展。"
+        },
+        {
+          "en": "The researchers documented over thirty previously unknown species, including bioluminescent jellyfish and giant single-celled organisms known as xenophyophores.",
+          "zh": "研究人员记录了三十多种以前未知的物种，包括生物发光水母和被称为异生藻的巨大单细胞生物。"
+        },
+        {
+          "en": "Particularly intriguing was the discovery of thriving communities clustered around hydrothermal vents, where superheated mineral-rich water spews from the ocean floor.",
+          "zh": "特别引人入胜的是围绕着热液喷口的繁荣群落，那里超高温的富含矿物质的水从海底喷涌而出。"
+        },
+        {
+          "en": "These ecosystems operate on a fundamentally different basis from almost every other known ecosystem on the planet.",
+          "zh": "这些生态系统的运行基础与地球上几乎所有其他已知生态系统有着根本的不同。"
+        },
+        {
+          "en": "Unlike surface ecosystems that depend on sunlight and photosynthesis, vent communities derive their energy from chemical reactions involving sulfur compounds.",
+          "zh": "与依赖阳光和光合作用的地表生态系统不同，热液喷口群落从涉及硫化合物的化学反应中获取能量。"
+        },
+        {
+          "en": "This process, known as chemosynthesis, supports complex food webs that include tube worms reaching lengths of over two meters.",
+          "zh": "这个过程被称为化学合成，支持着包括长达两米以上的管虫在内的复杂食物网。"
+        },
+        {
+          "en": "The implications of these findings extend far beyond marine biology into fields as diverse as astrobiology and pharmaceutical research.",
+          "zh": "这些发现的意义远超海洋生物学，延伸到天体生物学和药物研究等多样领域。"
+        },
+        {
+          "en": "If life can thrive in such extreme conditions on Earth, scientists reason, similar processes might sustain life on other worlds.",
+          "zh": "科学家们推论，如果生命能在地球上如此极端的条件下繁衍，类似的过程可能也在其他世界上维持着生命。"
+        },
+        {
+          "en": "Jupiter's moon Europa and Saturn's moon Enceladus, both believed to harbor subsurface oceans, are now considered even more promising candidates for extraterrestrial life.",
+          "zh": "木星的卫星欧罗巴和土星的卫星恩克拉多斯都被认为拥有地下海洋，现在被视为地外生命更有希望的候选。"
+        },
+        {
+          "en": "Furthermore, the unique biochemical compounds produced by deep-sea organisms are attracting intense interest from the pharmaceutical industry.",
+          "zh": "此外，深海生物产生的独特生化化合物正引起制药行业的强烈兴趣。"
+        },
+        {
+          "en": "Several compounds isolated from deep-sea sponges and bacteria have shown promising anti-cancer and antibiotic properties in laboratory tests.",
+          "zh": "从深海海绵和细菌中分离出的几种化合物在实验室测试中显示出有希望的抗癌和抗生素特性。"
+        },
+        {
+          "en": "However, even as scientists race to explore these remote ecosystems, they face a troubling paradox.",
+          "zh": "然而，就在科学家们竞相探索这些偏远生态系统的同时，他们面临着一个令人不安的矛盾。"
+        },
+        {
+          "en": "The same technological advances enabling deep-sea exploration are also facilitating deep-sea mining, which threatens to destroy these habitats before they can be studied.",
+          "zh": "同样的技术进步在使深海探索成为可能的同时，也在促进深海采矿，这可能在这些栖息地被研究之前就将其摧毁。"
+        },
+        {
+          "en": "The Clarion-Clipperton Zone alone contains an estimated twenty-one billion tons of polymetallic nodules rich in manganese, nickel, and cobalt.",
+          "zh": "仅克拉里昂-克利珀顿区就估计含有二百一十亿吨富含锰、镍和钴的多金属结核。"
+        },
+        {
+          "en": "These minerals are increasingly sought after for the production of electric vehicle batteries and renewable energy infrastructure.",
+          "zh": "这些矿物越来越多地被用于生产电动汽车电池和可再生能源基础设施。"
+        },
+        {
+          "en": "Marine conservationists argue forcefully that we must establish comprehensive protected areas before allowing any extraction activities to proceed.",
+          "zh": "海洋保护主义者强烈主张，我们必须在允许任何开采活动进行之前建立全面的保护区。"
+        },
+        {
+          "en": "The United Nations is currently negotiating an international treaty to regulate mining activities in international waters beyond any single nation's jurisdiction.",
+          "zh": "联合国目前正在谈判一项国际条约，以规范超出任何单一国家管辖范围的国际水域的采矿活动。"
+        },
+        {
+          "en": "Scientists emphasize that preserving deep-sea biodiversity is not merely an ethical imperative but may hold the key to future medical and technological breakthroughs.",
+          "zh": "科学家们强调，保护深海生物多样性不仅是一种道德要求，而且可能掌握着未来医疗和技术突破的关键。"
+        },
+        {
+          "en": "As one expedition leader remarked, we are only beginning to understand what we stand to lose before we even know what exists.",
+          "zh": "正如一位考察队长所说，我们才刚开始意识到，在我们甚至不知道什么存在之前，我们可能会失去什么。"
+        }
       ]
     },
     {
@@ -140,33 +435,114 @@
       "level": "ielts",
       "date": "2026-05-27",
       "sentences": [
-        {"en": "The dramatic shift toward remote work triggered by the global pandemic has evolved into what many economists are now calling the most significant transformation of labor markets since the Industrial Revolution.", "zh": "全球疫情引发的向远程工作的戏剧性转变已演变为许多经济学家所称的自工业革命以来劳动力市场最重大的变革。"},
-        {"en": "Prior to 2020, approximately five percent of the American workforce operated primarily from home.", "zh": "在2020年之前，大约百分之五的美国劳动力主要在家工作。"},
-        {"en": "Today, that figure has stabilized at roughly twenty-eight percent, representing a fundamental restructuring of how and where work is conducted.", "zh": "如今，这一数字已稳定在约百分之二十八，代表了工作方式和地点的根本性重组。"},
-        {"en": "The consequences of this shift ripple far beyond individual work arrangements into the very fabric of urban economies and social structures.", "zh": "这一转变的后果远远超出个人工作安排，波及到城市经济和社会结构的基本构造。"},
-        {"en": "Central business districts, once dominated by gleaming office towers, have experienced a profound and likely permanent reduction in daily foot traffic.", "zh": "曾经以闪亮的办公大楼为主体的中央商务区，其日常人流量经历了深刻且可能是永久性的减少。"},
-        {"en": "In San Francisco, office vacancy rates have soared to over thirty percent, the highest level in the city's modern history.", "zh": "在旧金山，办公室空置率已飙升至超过百分之三十，这是该市现代史上的最高水平。"},
-        {"en": "The impact on small businesses that depended on office worker customers has been nothing short of devastating in many urban centers.", "zh": "在许多城市中心，对依赖办公室上班族顾客的小企业的影响简直是毁灭性的。"},
-        {"en": "Thousands of coffee shops, dry cleaners, lunch restaurants, and other service establishments have been forced to close their doors permanently.", "zh": "数以千计的咖啡店、干洗店、午餐餐厅和其他服务场所被迫永久关闭。"},
-        {"en": "However, the story is not uniformly negative, and a more nuanced picture emerges when one examines the data more carefully.", "zh": "然而，情况并非完全是负面的，当人们更仔细地审视数据时，会出现一幅更微妙的图景。"},
-        {"en": "Suburban and rural communities have experienced an unexpected economic revitalization as remote workers relocate away from expensive city centers.", "zh": "随着远程工作者从昂贵的城市中心迁离，郊区和农村社区经历了意想不到的经济复兴。"},
-        {"en": "These 'zoom towns', as they have come to be known, have seen increases in local tax revenues, new business formation, and cultural vitality.", "zh": "这些被称为'Zoom小镇'的地方，地方税收收入、新企业创立和文化活力都有所增长。"},
-        {"en": "The redistribution of economic activity away from a handful of superstar cities toward a broader geographic spread represents a potentially historic democratization of opportunity.", "zh": "经济活动从少数超级明星城市向更广泛的地理分布重新分配，代表了机会的潜在历史性民主化。"},
-        {"en": "For workers themselves, the evidence regarding productivity and well-being paints a complex and sometimes contradictory picture.", "zh": "对于工作者本身而言，关于生产力和幸福感的证据描绘了一幅复杂且有时矛盾的图景。"},
-        {"en": "A meta-analysis of forty-seven studies published in the Journal of Labor Economics found that hybrid workers were, on average, slightly more productive than their fully in-office counterparts.", "zh": "发表在《劳动经济学杂志》上的一项对四十七项研究的荟萃分析发现，混合工作者的平均生产力略高于完全在办公室工作的同事。"},
-        {"en": "The gains appeared to come primarily from reduced commuting time and fewer workplace interruptions rather than from the home environment itself.", "zh": "这些增益似乎主要来自通勤时间的减少和工作场所干扰的减少，而非家庭环境本身。"},
-        {"en": "Yet fully remote workers reported significantly higher rates of loneliness and a blurring of boundaries between professional and personal life.", "zh": "然而，完全远程工作者报告的孤独感明显更高，职业与个人生活的界限也变得模糊。"},
-        {"en": "The erosion of informal mentorship and spontaneous collaboration remains the most frequently cited concern among managers and executives.", "zh": "非正式指导和自发协作的消失仍然是管理者和高管们最常提到的担忧。"},
-        {"en": "Younger workers, in particular, appear to suffer from the loss of in-person networking opportunities that earlier generations took for granted.", "zh": "特别是年轻工作者，似乎因失去了前几代人习以为常的面对面社交机会而受到影响。"},
-        {"en": "These concerns have led many large corporations to adopt hybrid models that require employees to be in the office two or three days per week.", "zh": "这些担忧导致许多大公司采用混合模式，要求员工每周在办公室工作两到三天。"},
-        {"en": "Nevertheless, a growing number of companies, particularly in the technology sector, have embraced fully distributed workforces as a competitive advantage.", "zh": "尽管如此，越来越多的公司，特别是科技行业的公司，已将完全分布式劳动力作为竞争优势来接受。"},
-        {"en": "By eliminating geographic constraints on hiring, these organizations can access global talent pools and reduce their real estate costs substantially.", "zh": "通过消除招聘的地理限制，这些组织可以接触到全球人才库，并大幅降低房地产成本。"},
-        {"en": "The environmental implications of the remote work revolution are more ambiguous than many early proponents assumed they would be.", "zh": "远程工作革命的环境影响比许多早期支持者所假设的要更加模糊。"},
-        {"en": "While reduced commuting has cut transportation emissions in some regions, the increase in home energy consumption and suburban sprawl has offset many of these gains.", "zh": "虽然减少通勤在一些地区减少了交通排放，但家庭能源消耗的增加和郊区扩张抵消了其中的许多收益。"},
-        {"en": "The long-term consequences for urban planning and real estate markets remain deeply uncertain and the subject of intense debate among experts.", "zh": "对城市规划和房地产市场的长期后果仍然非常不确定，也是专家们激烈争论的主题。"},
-        {"en": "Some forecasters predict that major cities will adapt and reinvent themselves as centers of culture and entertainment rather than commerce.", "zh": "一些预测者预计，大城市将适应并重塑自己为文化和娱乐中心，而非商业中心。"},
-        {"en": "Others warn of a potential 'urban doom loop' in which declining tax revenues lead to service cuts, which in turn drive more residents away.", "zh": "其他人则警告可能出现'城市厄运循环'：税收收入下降导致服务削减，进而驱离更多居民。"},
-        {"en": "What is clear is that the relationship between work and place has been permanently altered, and neither will return to pre-pandemic patterns.", "zh": "清楚的是，工作与地点之间的关系已经被永久改变，两者都不会回到疫情前的模式。"}
+        {
+          "en": "The dramatic shift toward remote work triggered by the global pandemic has evolved into what many economists are now calling the most significant transformation of labor markets since the Industrial Revolution.",
+          "zh": "全球疫情引发的向远程工作的戏剧性转变已演变为许多经济学家所称的自工业革命以来劳动力市场最重大的变革。"
+        },
+        {
+          "en": "Prior to 2020, approximately five percent of the American workforce operated primarily from home.",
+          "zh": "在2020年之前，大约百分之五的美国劳动力主要在家工作。"
+        },
+        {
+          "en": "Today, that figure has stabilized at roughly twenty-eight percent, representing a fundamental restructuring of how and where work is conducted.",
+          "zh": "如今，这一数字已稳定在约百分之二十八，代表了工作方式和地点的根本性重组。"
+        },
+        {
+          "en": "The consequences of this shift ripple far beyond individual work arrangements into the very fabric of urban economies and social structures.",
+          "zh": "这一转变的后果远远超出个人工作安排，波及到城市经济和社会结构的基本构造。"
+        },
+        {
+          "en": "Central business districts, once dominated by gleaming office towers, have experienced a profound and likely permanent reduction in daily foot traffic.",
+          "zh": "曾经以闪亮的办公大楼为主体的中央商务区，其日常人流量经历了深刻且可能是永久性的减少。"
+        },
+        {
+          "en": "In San Francisco, office vacancy rates have soared to over thirty percent, the highest level in the city's modern history.",
+          "zh": "在旧金山，办公室空置率已飙升至超过百分之三十，这是该市现代史上的最高水平。"
+        },
+        {
+          "en": "The impact on small businesses that depended on office worker customers has been nothing short of devastating in many urban centers.",
+          "zh": "在许多城市中心，对依赖办公室上班族顾客的小企业的影响简直是毁灭性的。"
+        },
+        {
+          "en": "Thousands of coffee shops, dry cleaners, lunch restaurants, and other service establishments have been forced to close their doors permanently.",
+          "zh": "数以千计的咖啡店、干洗店、午餐餐厅和其他服务场所被迫永久关闭。"
+        },
+        {
+          "en": "However, the story is not uniformly negative, and a more nuanced picture emerges when one examines the data more carefully.",
+          "zh": "然而，情况并非完全是负面的，当人们更仔细地审视数据时，会出现一幅更微妙的图景。"
+        },
+        {
+          "en": "Suburban and rural communities have experienced an unexpected economic revitalization as remote workers relocate away from expensive city centers.",
+          "zh": "随着远程工作者从昂贵的城市中心迁离，郊区和农村社区经历了意想不到的经济复兴。"
+        },
+        {
+          "en": "These 'zoom towns', as they have come to be known, have seen increases in local tax revenues, new business formation, and cultural vitality.",
+          "zh": "这些被称为'Zoom小镇'的地方，地方税收收入、新企业创立和文化活力都有所增长。"
+        },
+        {
+          "en": "The redistribution of economic activity away from a handful of superstar cities toward a broader geographic spread represents a potentially historic democratization of opportunity.",
+          "zh": "经济活动从少数超级明星城市向更广泛的地理分布重新分配，代表了机会的潜在历史性民主化。"
+        },
+        {
+          "en": "For workers themselves, the evidence regarding productivity and well-being paints a complex and sometimes contradictory picture.",
+          "zh": "对于工作者本身而言，关于生产力和幸福感的证据描绘了一幅复杂且有时矛盾的图景。"
+        },
+        {
+          "en": "A meta-analysis of forty-seven studies published in the Journal of Labor Economics found that hybrid workers were, on average, slightly more productive than their fully in-office counterparts.",
+          "zh": "发表在《劳动经济学杂志》上的一项对四十七项研究的荟萃分析发现，混合工作者的平均生产力略高于完全在办公室工作的同事。"
+        },
+        {
+          "en": "The gains appeared to come primarily from reduced commuting time and fewer workplace interruptions rather than from the home environment itself.",
+          "zh": "这些增益似乎主要来自通勤时间的减少和工作场所干扰的减少，而非家庭环境本身。"
+        },
+        {
+          "en": "Yet fully remote workers reported significantly higher rates of loneliness and a blurring of boundaries between professional and personal life.",
+          "zh": "然而，完全远程工作者报告的孤独感明显更高，职业与个人生活的界限也变得模糊。"
+        },
+        {
+          "en": "The erosion of informal mentorship and spontaneous collaboration remains the most frequently cited concern among managers and executives.",
+          "zh": "非正式指导和自发协作的消失仍然是管理者和高管们最常提到的担忧。"
+        },
+        {
+          "en": "Younger workers, in particular, appear to suffer from the loss of in-person networking opportunities that earlier generations took for granted.",
+          "zh": "特别是年轻工作者，似乎因失去了前几代人习以为常的面对面社交机会而受到影响。"
+        },
+        {
+          "en": "These concerns have led many large corporations to adopt hybrid models that require employees to be in the office two or three days per week.",
+          "zh": "这些担忧导致许多大公司采用混合模式，要求员工每周在办公室工作两到三天。"
+        },
+        {
+          "en": "Nevertheless, a growing number of companies, particularly in the technology sector, have embraced fully distributed workforces as a competitive advantage.",
+          "zh": "尽管如此，越来越多的公司，特别是科技行业的公司，已将完全分布式劳动力作为竞争优势来接受。"
+        },
+        {
+          "en": "By eliminating geographic constraints on hiring, these organizations can access global talent pools and reduce their real estate costs substantially.",
+          "zh": "通过消除招聘的地理限制，这些组织可以接触到全球人才库，并大幅降低房地产成本。"
+        },
+        {
+          "en": "The environmental implications of the remote work revolution are more ambiguous than many early proponents assumed they would be.",
+          "zh": "远程工作革命的环境影响比许多早期支持者所假设的要更加模糊。"
+        },
+        {
+          "en": "While reduced commuting has cut transportation emissions in some regions, the increase in home energy consumption and suburban sprawl has offset many of these gains.",
+          "zh": "虽然减少通勤在一些地区减少了交通排放，但家庭能源消耗的增加和郊区扩张抵消了其中的许多收益。"
+        },
+        {
+          "en": "The long-term consequences for urban planning and real estate markets remain deeply uncertain and the subject of intense debate among experts.",
+          "zh": "对城市规划和房地产市场的长期后果仍然非常不确定，也是专家们激烈争论的主题。"
+        },
+        {
+          "en": "Some forecasters predict that major cities will adapt and reinvent themselves as centers of culture and entertainment rather than commerce.",
+          "zh": "一些预测者预计，大城市将适应并重塑自己为文化和娱乐中心，而非商业中心。"
+        },
+        {
+          "en": "Others warn of a potential 'urban doom loop' in which declining tax revenues lead to service cuts, which in turn drive more residents away.",
+          "zh": "其他人则警告可能出现'城市厄运循环'：税收收入下降导致服务削减，进而驱离更多居民。"
+        },
+        {
+          "en": "What is clear is that the relationship between work and place has been permanently altered, and neither will return to pre-pandemic patterns.",
+          "zh": "清楚的是，工作与地点之间的关系已经被永久改变，两者都不会回到疫情前的模式。"
+        }
       ]
     }
   ]
