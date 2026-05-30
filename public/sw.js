@@ -41,6 +41,10 @@ self.addEventListener('fetch', (event) => {
   event.respondWith(
     fetch(event.request)
       .then((response) => {
+        // 只缓存成功的响应，避免缓存 404 等错误
+        if (!response.ok) {
+          return caches.match(event.request).then((cached) => cached || response);
+        }
         // 网络成功 → 更新缓存
         const cloned = response.clone();
         caches.open(CACHE_NAME).then((cache) => {
