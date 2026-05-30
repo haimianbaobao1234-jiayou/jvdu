@@ -1,7 +1,7 @@
 // 句读 — Service Worker
 // 缓存策略：Network First（优先网络，失败时用缓存）
 
-const CACHE_NAME = 'jvdu-v1';
+const CACHE_NAME = 'jvdu-v2';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',
