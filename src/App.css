@@ -232,21 +232,16 @@
 
 /* 句子块 */
 .sentence-block {
-  margin-bottom: 6px;
-  padding: 10px 12px;
+  margin-bottom: 16px;
+  padding: 12px 14px;
   border-radius: 8px;
-  cursor: pointer;
+  background: var(--card-bg);
+  box-shadow: var(--shadow);
   transition: background 0.15s;
-  -webkit-tap-highlight-color: transparent;
 }
 
 .sentence-block:active {
   background: var(--border);
-}
-
-.sentence-block.open {
-  background: var(--card-bg);
-  box-shadow: var(--shadow);
 }
 
 .sentence-en {

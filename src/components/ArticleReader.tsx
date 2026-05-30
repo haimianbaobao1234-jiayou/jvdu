@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import type { Article } from '../types'
 import { LEVEL_LABELS } from '../types'
 import { useDictionary } from '../hooks/useDictionary'
@@ -10,20 +9,7 @@ interface ArticleReaderProps {
 }
 
 export function ArticleReader({ article, onBack }: ArticleReaderProps) {
-  const [openSet, setOpenSet] = useState<Set<number>>(new Set())
   const { wordInfo, loading, error, isOpen: popupOpen, lookup, close } = useDictionary()
-
-  const toggleSentence = (index: number) => {
-    setOpenSet((prev) => {
-      const next = new Set(prev)
-      if (next.has(index)) {
-        next.delete(index)
-      } else {
-        next.add(index)
-      }
-      return next
-    })
-  }
 
   const handleWordClick = (e: React.MouseEvent, word: string) => {
     e.stopPropagation()
@@ -56,23 +42,15 @@ export function ArticleReader({ article, onBack }: ArticleReaderProps) {
       {/* 文章内容 */}
       <div className="reader-content">
         {article.sentences.map((sentence, index) => {
-          const isOpen = openSet.has(index)
-          // 把句子拆成单词，每个单词可点击
           const words = sentence.en.split(/(\s+)/).filter(Boolean)
 
           return (
-            <div
-              key={index}
-              className={`sentence-block ${isOpen ? 'open' : ''}`}
-              onClick={() => toggleSentence(index)}
-            >
+            <div key={index} className="sentence-block">
               <p className="sentence-en">
                 {words.map((token, wi) => {
-                  // 纯空白字符直接渲染
                   if (/^\s+$/.test(token)) {
                     return <span key={wi}>{token}</span>
                   }
-                  // 单词可点击
                   return (
                     <span
                       key={wi}
@@ -85,16 +63,14 @@ export function ArticleReader({ article, onBack }: ArticleReaderProps) {
                   )
                 })}
               </p>
-              {isOpen && (
-                <p className="sentence-zh">{sentence.zh}</p>
-              )}
+              <p className="sentence-zh">{sentence.zh}</p>
             </div>
           )
         })}
       </div>
 
       <div className="reader-hint">
-        💡 点击句子显示翻译 · 点击单词查词典
+        💡 点击单词查词典
       </div>
 
       {/* 单词弹窗 */}
