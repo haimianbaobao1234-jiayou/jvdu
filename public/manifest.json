@@ -1,0 +1,19 @@
+{
+  "name": "句读 — 英语阅读",
+  "short_name": "句读",
+  "description": "英语阅读，句句可译。自动抓取英文新闻，点击句子显示中文翻译。",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#F0F7F4",
+  "background_color": "#F0F7F4",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

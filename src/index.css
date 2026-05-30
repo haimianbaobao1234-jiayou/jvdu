@@ -1,0 +1,69 @@
+/* === 句读 — 全局样式 === */
+
+/* 默认主题：浅绿 */
+:root {
+  --primary: #7EC8A0;
+  --bg: #F0F7F4;
+  --card-bg: #FFFFFF;
+  --text: #2C3E2E;
+  --text-secondary: #6B8A7A;
+  --accent: #5A9E7A;
+  --border: #D4E8DC;
+  --radius: 12px;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+/* 淡蓝主题 */
+[data-theme="blue"] {
+  --primary: #7EB8D4;
+  --bg: #F0F4F8;
+  --card-bg: #FFFFFF;
+  --text: #2C3A48;
+  --text-secondary: #6B8599;
+  --accent: #5A8FAD;
+  --border: #D4DFE8;
+}
+
+/* 淡粉主题 */
+[data-theme="pink"] {
+  --primary: #D4A0B0;
+  --bg: #F9F3F5;
+  --card-bg: #FFFFFF;
+  --text: #4A3038;
+  --text-secondary: #997780;
+  --accent: #B08090;
+  --border: #E8D4DA;
+}
+
+/* === CSS Reset === */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: Georgia, 'Times New Roman', 'PingFang SC', 'Hiragino Sans GB',
+    'Microsoft YaHei', sans-serif;
+  line-height: 1.6;
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+  font-family: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
