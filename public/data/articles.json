@@ -9,11 +9,48 @@
       "level": "cet4",
       "date": "2026-05-30",
       "sentences": [
-        {"en": "World leaders gathered in Paris on Monday to discuss climate change. ", "zh": "周一，世界各国领导人齐聚巴黎，讨论气候变化问题。"},
-        {"en": "The summit aims to create new plans for reducing carbon emissions. ", "zh": "此次峰会旨在制定减少碳排放的新计划。"},
-        {"en": "Scientists say that global temperatures are rising faster than expected. ", "zh": "科学家们表示，全球气温上升的速度比预期的要快。"},
-        {"en": "Many countries promised to plant more trees and use cleaner energy. ", "zh": "许多国家承诺种植更多树木并使用更清洁的能源。"},
-        {"en": "The next meeting will be held in London next year. ", "zh": "下一次会议将于明年在伦敦举行。"}
+        {
+          "en": "World leaders gathered in Paris on Monday to discuss climate change. ",
+          "zh": "周一，世界各国领导人齐聚巴黎，讨论气候变化问题。"
+        },
+        {
+          "en": "The summit aims to create new plans for reducing carbon emissions. ",
+          "zh": "此次峰会旨在制定减少碳排放的新计划。"
+        },
+        {
+          "en": "Scientists say that global temperatures are rising faster than expected. ",
+          "zh": "科学家们表示，全球气温上升的速度比预期的要快。"
+        },
+        {
+          "en": "Many countries promised to plant more trees and use cleaner energy. ",
+          "zh": "许多国家承诺种植更多树木并使用更清洁的能源。"
+        },
+        {
+          "en": "The next meeting will be held in London next year. ",
+          "zh": "下一次会议将于明年在伦敦举行。"
+        }
+      ]
+    },
+    {
+      "id": "the-guardian-world-who-puts-ebola-outbreak-death-rate-at-hug-mpsaii4q",
+      "title": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+      "level": "ielts",
+      "date": "2026-05-29",
+      "sentences": [
+        {
+          "en": "<p>Tedros Adhanom Ghebreyesus calls for ceasefire among armed groups to help avoid deaths from preventable disease</p><p>The death rate of the Ebola outbreak in the Democratic Republic of the Congo is between 30% and 50%, the World Health Organization has said, as its head arrived in the country to support efforts to contain the disease.</p><p>Anaïs Legand, from the WHO’s high threat pathogens team, said the revised death rate estimate is based on confirmed cases.",
+          "zh": "<p>Tedros Adhanom Ghebreyesus呼吁武装团体之间停火，以帮助避免可预防疾病造成的死亡</p><p>世界卫生组织表示，刚果民主共和国埃博拉疫情的死亡率在30 ％至50 ％之间，因为其负责人抵达该国以支持遏制该疾病的努力。</p><p>世卫组织高威胁病原体小组的Anaïs Legand表示，修订后的死亡率估计数是基于确诊病例。"
+        },
+        {
+          "en": "“It’s huge.",
+          "zh": "是的，非常强大。"
+        },
+        {
+          "en": "It means that up to five out of 10 people are likely to die,” Legand told reporters in Geneva.</p> <a href=\"https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic\">Continue reading...</a>",
+          "zh": "这意味着多达十分之五的人可能死亡， ”Legand在日内瓦告诉记者。</p> <a href=\"https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic\">继续阅读……</a>"
+        }
       ]
     },
     {
@@ -24,11 +61,26 @@
       "level": "cet6",
       "date": "2026-05-29",
       "sentences": [
-        {"en": "Artificial intelligence is transforming the way students learn around the world. ", "zh": "人工智能正在改变世界各地学生的学习方式。"},
-        {"en": "Teachers are using AI tools to create personalized learning plans for each student. ", "zh": "教师们正在使用人工智能工具为每个学生创建个性化的学习计划。"},
-        {"en": "However, some experts worry that students may become too dependent on technology. ", "zh": "然而，一些专家担心学生可能会变得过于依赖技术。"},
-        {"en": "A recent study showed that AI-assisted learning improved test scores by 15 percent. ", "zh": "最近的一项研究表明，人工智能辅助学习将考试成绩提高了百分之十五。"},
-        {"en": "The key is to find a balance between technology and traditional teaching methods. ", "zh": "关键是要在技术和传统教学方法之间找到平衡。"}
+        {
+          "en": "Artificial intelligence is transforming the way students learn around the world. ",
+          "zh": "人工智能正在改变世界各地学生的学习方式。"
+        },
+        {
+          "en": "Teachers are using AI tools to create personalized learning plans for each student. ",
+          "zh": "教师们正在使用人工智能工具为每个学生创建个性化的学习计划。"
+        },
+        {
+          "en": "However, some experts worry that students may become too dependent on technology. ",
+          "zh": "然而，一些专家担心学生可能会变得过于依赖技术。"
+        },
+        {
+          "en": "A recent study showed that AI-assisted learning improved test scores by 15 percent. ",
+          "zh": "最近的一项研究表明，人工智能辅助学习将考试成绩提高了百分之十五。"
+        },
+        {
+          "en": "The key is to find a balance between technology and traditional teaching methods. ",
+          "zh": "关键是要在技术和传统教学方法之间找到平衡。"
+        }
       ]
     },
     {
@@ -39,11 +91,26 @@
       "level": "ielts",
       "date": "2026-05-28",
       "sentences": [
-        {"en": "For decades, astrophysicists have been grappling with one of the most profound mysteries in modern science: the nature of dark matter. ", "zh": "几十年来，天体物理学家一直在努力解决现代科学中最深奥的谜团之一：暗物质的本质。"},
-        {"en": "Although it accounts for approximately 85 percent of all matter in the universe, dark matter has never been directly observed. ", "zh": "尽管暗物质约占宇宙中所有物质的百分之八十五，但它从未被直接观测到。"},
-        {"en": "Researchers at CERN have recently proposed a novel approach to detecting dark matter particles using the Large Hadron Collider. ", "zh": "欧洲核子研究中心的研究人员最近提出了一种利用大型强子对撞机探测暗物质粒子的新方法。"},
-        {"en": "The implications of understanding dark matter extend far beyond theoretical physics, potentially revolutionizing our comprehension of the cosmos. ", "zh": "理解暗物质的意义远不止于理论物理学，它可能会彻底改变我们对宇宙的认知。"},
-        {"en": "Nevertheless, many scientists remain cautiously optimistic, acknowledging that a breakthrough could still be decades away. ", "zh": "尽管如此，许多科学家仍持谨慎乐观的态度，承认突破性进展可能还需要几十年的时间。"}
+        {
+          "en": "For decades, astrophysicists have been grappling with one of the most profound mysteries in modern science: the nature of dark matter. ",
+          "zh": "几十年来，天体物理学家一直在努力解决现代科学中最深奥的谜团之一：暗物质的本质。"
+        },
+        {
+          "en": "Although it accounts for approximately 85 percent of all matter in the universe, dark matter has never been directly observed. ",
+          "zh": "尽管暗物质约占宇宙中所有物质的百分之八十五，但它从未被直接观测到。"
+        },
+        {
+          "en": "Researchers at CERN have recently proposed a novel approach to detecting dark matter particles using the Large Hadron Collider. ",
+          "zh": "欧洲核子研究中心的研究人员最近提出了一种利用大型强子对撞机探测暗物质粒子的新方法。"
+        },
+        {
+          "en": "The implications of understanding dark matter extend far beyond theoretical physics, potentially revolutionizing our comprehension of the cosmos. ",
+          "zh": "理解暗物质的意义远不止于理论物理学，它可能会彻底改变我们对宇宙的认知。"
+        },
+        {
+          "en": "Nevertheless, many scientists remain cautiously optimistic, acknowledging that a breakthrough could still be decades away. ",
+          "zh": "尽管如此，许多科学家仍持谨慎乐观的态度，承认突破性进展可能还需要几十年的时间。"
+        }
       ]
     },
     {
@@ -54,11 +121,26 @@
       "level": "cet4",
       "date": "2026-05-27",
       "sentences": [
-        {"en": "Doctors say that walking for 30 minutes every day can greatly improve your health. ", "zh": "医生们表示，每天步行三十分钟可以极大地改善你的健康。"},
-        {"en": "Walking helps to lower blood pressure and reduce the risk of heart disease. ", "zh": "步行有助于降低血压，减少患心脏病的风险。"},
-        {"en": "It also helps to improve your mood and reduce stress levels. ", "zh": "它还有助于改善你的情绪，降低压力水平。"},
-        {"en": "The best part is that walking is free and you can do it almost anywhere. ", "zh": "最棒的是，步行是免费的，而且你几乎可以在任何地方进行。"},
-        {"en": "Experts recommend starting with short walks and slowly increasing your distance. ", "zh": "专家建议从短距离步行开始，然后慢慢增加距离。"}
+        {
+          "en": "Doctors say that walking for 30 minutes every day can greatly improve your health. ",
+          "zh": "医生们表示，每天步行三十分钟可以极大地改善你的健康。"
+        },
+        {
+          "en": "Walking helps to lower blood pressure and reduce the risk of heart disease. ",
+          "zh": "步行有助于降低血压，减少患心脏病的风险。"
+        },
+        {
+          "en": "It also helps to improve your mood and reduce stress levels. ",
+          "zh": "它还有助于改善你的情绪，降低压力水平。"
+        },
+        {
+          "en": "The best part is that walking is free and you can do it almost anywhere. ",
+          "zh": "最棒的是，步行是免费的，而且你几乎可以在任何地方进行。"
+        },
+        {
+          "en": "Experts recommend starting with short walks and slowly increasing your distance. ",
+          "zh": "专家建议从短距离步行开始，然后慢慢增加距离。"
+        }
       ]
     },
     {
@@ -69,10 +151,22 @@
       "level": "ielts",
       "date": "2026-05-26",
       "sentences": [
-        {"en": "The gig economy has fundamentally altered the traditional employer-employee relationship across the globe. ", "zh": "零工经济从根本上改变了全球范围内传统的雇主与雇员关系。"},
-        {"en": "Proponents argue that freelancing offers unparalleled flexibility and the freedom to choose one's own projects. ", "zh": "支持者认为，自由职业提供了无与伦比的灵活性以及选择自己项目的自由。"},
-        {"en": "Critics, however, point to the lack of job security, health benefits, and retirement plans that accompany traditional employment. ", "zh": "然而，批评者指出零工经济缺乏传统就业所附带的工作保障、医疗福利和退休计划。"},
-        {"en": "Governments worldwide are scrambling to update labor laws that were designed for a bygone era of work. ", "zh": "世界各国政府正在争相更新那些为过去的工作时代设计的劳动法。"}
+        {
+          "en": "The gig economy has fundamentally altered the traditional employer-employee relationship across the globe. ",
+          "zh": "零工经济从根本上改变了全球范围内传统的雇主与雇员关系。"
+        },
+        {
+          "en": "Proponents argue that freelancing offers unparalleled flexibility and the freedom to choose one's own projects. ",
+          "zh": "支持者认为，自由职业提供了无与伦比的灵活性以及选择自己项目的自由。"
+        },
+        {
+          "en": "Critics, however, point to the lack of job security, health benefits, and retirement plans that accompany traditional employment. ",
+          "zh": "然而，批评者指出零工经济缺乏传统就业所附带的工作保障、医疗福利和退休计划。"
+        },
+        {
+          "en": "Governments worldwide are scrambling to update labor laws that were designed for a bygone era of work. ",
+          "zh": "世界各国政府正在争相更新那些为过去的工作时代设计的劳动法。"
+        }
       ]
     }
   ]
