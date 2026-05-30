@@ -9,7 +9,7 @@ export function useArticles() {
 
   // 加载文章数据
   useEffect(() => {
-    fetch('./data/articles.json')
+    fetch(`${import.meta.env.BASE_URL}data/articles.json`)
       .then((res) => {
         if (!res.ok) throw new Error('加载失败')
         return res.json() as Promise<ArticlesData>
