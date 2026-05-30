@@ -6,8 +6,27 @@ export interface WordInfo {
   audioUrl: string
   meanings: Array<{
     partOfSpeech: string
-    definitions: string[]
+    definitions: Array<{
+      en: string
+      zh: string
+    }>
   }>
+}
+
+/** 翻译一段文本到中文 */
+async function translateToChinese(text: string): Promise<string> {
+  try {
+    const res = await fetch(
+      `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh-CN`
+    )
+    const data = await res.json()
+    if (data.responseStatus === 200 && data.responseData?.translatedText) {
+      return data.responseData.translatedText
+    }
+    return ''
+  } catch {
+    return ''
+  }
 }
 
 export function useDictionary() {
@@ -17,7 +36,6 @@ export function useDictionary() {
   const [isOpen, setIsOpen] = useState(false)
 
   const lookup = useCallback(async (word: string) => {
-    // 清理单词（去除标点符号）
     const clean = word.replace(/[^a-zA-Z'-]/g, '')
     if (!clean || clean.length < 2) return
 
@@ -39,23 +57,40 @@ export function useDictionary() {
       const data = await res.json()
       const entry = data[0]
 
-      // 提取音标
-      const phonetic =
-        entry.phonetic ||
-        entry.phonetics?.find((p: { text?: string }) => p.text)?.text ||
-        ''
+      // 优先英音：取第一个有音频的音标
+      const phonetics = entry.phonetics || []
+      const withAudio = phonetics.find((p: { audio?: string }) => p.audio)
+      const anyPhonetic = phonetics.find((p: { text?: string }) => p.text)
 
-      // 提取发音音频
-      const audioUrl =
-        entry.phonetics?.find((p: { audio?: string }) => p.audio)?.audio || ''
+      const phonetic = withAudio?.text || anyPhonetic?.text || entry.phonetic || ''
+      const audioUrl = withAudio?.audio || ''
 
-      // 提取释义（取前 3 个词性）
-      const meanings = (entry.meanings || []).slice(0, 3).map((m: {
+      // 提取释义并翻译为中文
+      const meaningsRaw = (entry.meanings || []).slice(0, 3).map((m: {
         partOfSpeech: string
         definitions: Array<{ definition: string }>
       }) => ({
         partOfSpeech: m.partOfSpeech,
         definitions: m.definitions.slice(0, 3).map((d) => d.definition),
+      }))
+
+      // 收集所有英文释义，用 ||| 分隔批量翻译
+      const allDefs: string[] = []
+      meaningsRaw.forEach((m: { partOfSpeech: string; definitions: string[] }) => {
+        m.definitions.forEach((d: string) => allDefs.push(d))
+      })
+
+      const zhCombined = await translateToChinese(allDefs.join(' ||| '))
+      const zhDefs = zhCombined ? zhCombined.split(' ||| ').map((s: string) => s.trim()) : []
+
+      // 组装结果
+      let defIndex = 0
+      const meanings = meaningsRaw.map((m: { partOfSpeech: string; definitions: string[] }) => ({
+        partOfSpeech: m.partOfSpeech,
+        definitions: m.definitions.map((en: string) => ({
+          en,
+          zh: zhDefs[defIndex++] || '',
+        })),
       }))
 
       setWordInfo({ word: entry.word, phonetic, audioUrl, meanings })

@@ -29,7 +29,7 @@ export function WordPopup({ wordInfo, loading, error, onClose }: WordPopupProps)
             <div className="popup-word-row">
               <h3 className="popup-word">{wordInfo.word}</h3>
               {wordInfo.phonetic && (
-                <span className="popup-phonetic">{wordInfo.phonetic}</span>
+                <span className="popup-phonetic">英 {wordInfo.phonetic}</span>
               )}
               {wordInfo.audioUrl && (
                 <button
@@ -38,7 +38,7 @@ export function WordPopup({ wordInfo, loading, error, onClose }: WordPopupProps)
                     const audio = new Audio(wordInfo.audioUrl)
                     audio.play()
                   }}
-                  title="发音"
+                  title="英式发音"
                 >
                   🔊
                 </button>
@@ -51,7 +51,11 @@ export function WordPopup({ wordInfo, loading, error, onClose }: WordPopupProps)
                   <span className="popup-pos">{m.partOfSpeech}</span>
                   <ol className="popup-defs">
                     {m.definitions.map((def, j) => (
-                      <li key={j}>{def}</li>
+                      <li key={j}>
+                        <span className="def-zh">{def.zh}</span>
+                        {def.zh && <span className="def-sep"> · </span>}
+                        <span className="def-en">{def.en}</span>
+                      </li>
                     ))}
                   </ol>
                 </div>

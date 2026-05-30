@@ -401,6 +401,21 @@
 
 .popup-defs li {
   margin-bottom: 2px;
+  line-height: 1.6;
+}
+
+.def-zh {
+  color: #333;
+  font-weight: 500;
+}
+
+.def-en {
+  color: #888;
+  font-size: 13px;
+}
+
+.def-sep {
+  color: #ccc;
 }
 
 /* 关闭按钮 */
