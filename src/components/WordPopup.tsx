@@ -29,7 +29,7 @@ export function WordPopup({ wordInfo, loading, error, onClose }: WordPopupProps)
             <div className="popup-word-row">
               <h3 className="popup-word">{wordInfo.word}</h3>
               {wordInfo.phonetic && (
-                <span className="popup-phonetic">英 {wordInfo.phonetic}</span>
+                <span className="popup-phonetic">美 {wordInfo.phonetic}</span>
               )}
               {wordInfo.audioUrl && (
                 <button
@@ -38,7 +38,7 @@ export function WordPopup({ wordInfo, loading, error, onClose }: WordPopupProps)
                     const audio = new Audio(wordInfo.audioUrl)
                     audio.play()
                   }}
-                  title="英式发音"
+                  title="美式发音"
                 >
                   🔊
                 </button>
