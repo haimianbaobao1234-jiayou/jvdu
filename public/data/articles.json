@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-06-01",
+  "lastUpdated": "2026-06-02",
   "articles": [
+    {
+      "id": "npr-news-doj-will-pause-1-8-billion-fund-per-court-order-and-mpwneo8g",
+      "title": "DOJ will pause $1.8 billion fund, per court order. And, key primaries to watch today",
+      "source": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/06/02/g-s1-125326/up-first-newsletter-anti-weaponization-fund-us-primaries-iran-israel-hezbollah",
+      "level": "ielts",
+      "date": "2026-06-02",
+      "sentences": [
+        {
+          "en": "The DOJ says it will abide by a federal court order pausing its anti-weaponization fund.",
+          "zh": "司法部表示，它将遵守联邦法院暂停其反武器化基金的命令。"
+        },
+        {
+          "en": "And, six states are holding primaries today.",
+          "zh": "而且，今天有六个州正在举行初选。"
+        },
+        {
+          "en": "Here are the races to watch.(Image credit: Win McNamee)",
+          "zh": "以下是可观看的比赛。（图片来源： Win McNamee ）"
+        }
+      ]
+    },
     {
       "id": "cet4-1",
       "title": "The Surprising Benefits of Urban Green Spaces",
