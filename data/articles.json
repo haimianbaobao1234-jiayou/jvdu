@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-06-02",
+  "lastUpdated": "2026-06-03",
   "articles": [
+    {
+      "id": "npr-news-firings-at-cbs-apos-apos-60-minutes-apos-reflect-th-mpydve73",
+      "title": "Firings at CBS&apos; &apos;60 Minutes&apos; reflect the fight for media control in the age of Trump",
+      "source": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/06/03/nx-s1-5844929/cbs-60-minutes-scott-pelley-cecilia-vega-bari-weiss-trump",
+      "level": "ielts",
+      "date": "2026-06-03",
+      "sentences": [
+        {
+          "en": "The show's new leader says he fired star Scott Pelley for insubordination.",
+          "zh": "该节目的新领导人说，他因不服从命令而解雇了明星斯科特·佩利。"
+        },
+        {
+          "en": "Pelley says he was defending the integrity of the show's journalism after three top executives and two reporters were fired.",
+          "zh": "佩利说，在三名高管和两名记者被解雇后，他正在捍卫该节目新闻的完整性。"
+        },
+        {
+          "en": "(Image credit: CBS Photo Archive/CBS via Getty Images)",
+          "zh": "（图片来源： CBS Photo Archive/CBS via Getty Images ）"
+        }
+      ]
+    },
+    {
+      "id": "npr-news-takeaways-from-iowa-apos-s-primaries-and-doj-nixes--mpydvfyq",
+      "title": "Takeaways from Iowa&apos;s primaries. And, DOJ nixes Trump&apos;s &apos;anti-weaponization&apos; fund",
+      "source": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/06/03/g-s1-125570/up-first-newsletter-iowa-primaries-anti-weaponization-fund-bill-pulte-immigrants-aliens",
+      "level": "ielts",
+      "date": "2026-06-03",
+      "sentences": [
+        {
+          "en": "Polls have now closed in six states that held primary elections yesterday.",
+          "zh": "昨天举行初选的六个州的民意调查现已结束。"
+        },
+        {
+          "en": "Here are the key takeaways.",
+          "zh": "以下是关键要点。"
+        },
+        {
+          "en": "And, the Justice Department has scrapped plans for Trump's \"anti-weaponization\" fund.(Image credit: Charlie Neibergall)",
+          "zh": "而且，司法部已经取消了特朗普“反武器化”基金的计划。（图片来源： Charlie Neibergall ）"
+        }
+      ]
+    },
+    {
+      "id": "the-guardian-world-we-don-t-have-another-country-to-run-to-k-mpydvhvw",
+      "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
+      "level": "ielts",
+      "date": "2026-06-02",
+      "sentences": [
+        {
+          "en": "<p>People from town of potential site for US citizens exposed to Ebola say it puts them at risk in country with no known cases</p><p>People from a town in central Kenya where the US wants to set up an Ebola quarantine facility for its citizens have strongly criticised the plan, saying they fear it will expose them to the virus and that it is indicative of double standards on the part of the US.</p><p>“Everybody should be quarantined in their home country.",
+          "zh": "<p>来自接触埃博拉病毒的美国公民的潜在地点镇的人说，这使他们在没有已知病例的国家处于危险之中</p><p>来自肯尼亚中部一个小镇的人们强烈批评了该计划，称他们担心这会使他们暴露于病毒中，这表明美国方面采取了双重标准。</p><p>“每个人都应该在自己的国家被隔离。"
+        },
+        {
+          "en": "We shouldn’t allow foreigners to bring us diseases,” said Charles Mathenge, a taxi driver who lives near Laikipia Air Base, the proposed site in Nanyuki, 120 miles from the capital, Nairobi.",
+          "zh": "我们不应该让外国人给我们带来疾病。”居住在莱基皮亚空军基地附近的出租车司机Charles Mathenge说。该基地位于距离首都内罗毕120英里的Nanyuki。"
+        },
+        {
+          "en": "“Kenya is our country, and we should be careful with it.”</p> <a href=\"https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site\">Continue reading...</a>",
+          "zh": "“肯尼亚是我们的国家，我们应该谨慎行事。”</p> <a href=\"https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site\">继续阅读……</a>"
+        }
+      ]
+    },
     {
       "id": "npr-news-doj-will-pause-1-8-billion-fund-per-court-order-and-mpwneo8g",
       "title": "DOJ will pause $1.8 billion fund, per court order. And, key primaries to watch today",
