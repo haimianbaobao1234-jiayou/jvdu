@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2026-06-03",
+  "lastUpdated": "2026-06-04",
   "articles": [
+    {
+      "id": "npr-news-how-having-zero-points-in-tennis-or-apos-love-apos--mpzfc1zl",
+      "title": "How having zero points in tennis — or &apos;love&apos; — came to sound so sweet",
+      "source": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/06/04/nx-s1-5843257/tennis-love-french-open",
+      "level": "ielts",
+      "date": "2026-06-04",
+      "sentences": [
+        {
+          "en": "There are theories that \"love\" in the tennis context has French, English or Dutch origins.",
+          "zh": "有些理论认为，网球语境中的“爱情”起源于法语、英语或荷兰语。"
+        },
+        {
+          "en": "But like many words, historians and language experts say it's hard to pin down the \"right\" answer.",
+          "zh": "但就像许多单词一样，历史学家和语言专家说很难确定“正确”的答案。"
+        },
+        {
+          "en": "(Image credit: Kirsty Wigglesworth)",
+          "zh": "（图片来源： Kirsty Wigglesworth ）"
+        }
+      ]
+    },
+    {
+      "id": "npr-news-national-guard-has-done-little-to-reduce-violent-cr-mpzfc3q7",
+      "title": "National Guard has done little to reduce violent crime in D.C., a new study finds",
+      "source": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/06/04/nx-s1-5845073/national-guard-washington-dc-crime",
+      "level": "ielts",
+      "date": "2026-06-04",
+      "sentences": [
+        {
+          "en": "A new study has found that the National Guard's presence in Washington, D.C.",
+          "zh": "一项新的研究发现，国民警卫队在华盛顿特区的存在"
+        },
+        {
+          "en": "had no effect on violent crime in the city.",
+          "zh": "对城市中的暴力犯罪没有影响。"
+        },
+        {
+          "en": "The Guard has been deployed since last August as part of a federal task force to fight crime, and their numbers are set to double in the coming weeks.(Image credit: Alex Wroblewski)",
+          "zh": "自去年8月以来，作为打击犯罪的联邦特别工作组的一部分，警卫队已经部署，其人数将在未来几周增加一倍。（图片来源： Alex Wroblewski ）"
+        }
+      ]
+    },
     {
       "id": "npr-news-firings-at-cbs-apos-apos-60-minutes-apos-reflect-th-mpydve73",
       "title": "Firings at CBS&apos; &apos;60 Minutes&apos; reflect the fight for media control in the age of Trump",
@@ -42,6 +86,28 @@
         {
           "en": "And, the Justice Department has scrapped plans for Trump's \"anti-weaponization\" fund.(Image credit: Charlie Neibergall)",
           "zh": "而且，司法部已经取消了特朗普“反武器化”基金的计划。（图片来源： Charlie Neibergall ）"
+        }
+      ]
+    },
+    {
+      "id": "the-guardian-world-we-don-t-have-another-country-to-run-to-k-mpzfc5ef",
+      "title": "‘We don’t have another country to run to’: Kenyans fear US plan for Ebola quarantine site",
+      "source": "The Guardian World",
+      "sourceUrl": "https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site",
+      "level": "ielts",
+      "date": "2026-06-02",
+      "sentences": [
+        {
+          "en": "<p>People from town of potential site for US citizens exposed to Ebola say it puts them at risk in country with no known cases</p><p>People from a town in central Kenya where the US wants to set up an Ebola quarantine facility for its citizens have strongly criticised the plan, saying they fear it will expose them to the virus and that it is indicative of double standards on the part of the US.</p><p>“Everybody should be quarantined in their home country.",
+          "zh": "<p>来自接触埃博拉病毒的美国公民的潜在地点镇的人说，这使他们在没有已知病例的国家处于危险之中</p><p>来自肯尼亚中部一个小镇的人们强烈批评了该计划，称他们担心这会使他们暴露于病毒中，这表明美国方面采取了双重标准。</p><p>“每个人都应该在自己的国家被隔离。"
+        },
+        {
+          "en": "We shouldn’t allow foreigners to bring us diseases,” said Charles Mathenge, a taxi driver who lives near Laikipia Air Base, the proposed site in Nanyuki, 120 miles from the capital, Nairobi.",
+          "zh": "我们不应该让外国人给我们带来疾病。”居住在莱基皮亚空军基地附近的出租车司机Charles Mathenge说。该基地位于距离首都内罗毕120英里的Nanyuki。"
+        },
+        {
+          "en": "“Kenya is our country, and we should be careful with it.”</p> <a href=\"https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site\">Continue reading...</a>",
+          "zh": "“肯尼亚是我们的国家，我们应该谨慎行事。”</p> <a href=\"https://www.theguardian.com/world/2026/jun/02/kenyans-fear-us-plan-for-ebola-quarantine-site\">继续阅读……</a>"
         }
       ]
     },
