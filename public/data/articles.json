@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-06-09",
+  "lastUpdated": "2026-06-10",
   "articles": [
+    {
+      "id": "npr-news-san-francisco-immigration-court-shuts-down-striking-mq82a53q",
+      "title": "San Francisco immigration court shuts down, striking at heart of historic advocacy",
+      "source": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/06/10/g-s1-126345/san-franciso-court-immigration-closure-asylum-layoffs",
+      "level": "ielts",
+      "date": "2026-06-10",
+      "sentences": [
+        {
+          "en": "The main San Francisco court was one of the busiest in the country, hearing thousands of cases a year.",
+          "zh": "旧金山的主要法院是该国最繁忙的法院之一，每年审理数千起案件。"
+        },
+        {
+          "en": "It was also one of the courts most likely to grant an immigrants' asylum application.(Image credit: Brian L.",
+          "zh": "它也是最有可能批准移民庇护申请的法院之一。（图片来源： Brian L."
+        },
+        {
+          "en": "Frank for NPR)",
+          "zh": "NPR的Frank ）"
+        }
+      ]
+    },
     {
       "id": "npr-news-4-states-head-to-the-polls-and-global-conflicts-are-mq6lsgps",
       "title": "4 states head to the polls. And, global conflicts are on the rise, new report says",
